@@ -16,7 +16,7 @@ let i = 1;
 while (i <= n) {
   console.log(i);
   i++;
-  }
+}
 
 
 // Exercise 2. Write a 'do while' loop that prints the integers (whole numbers)
@@ -53,7 +53,7 @@ while (j >= 1) {
   console.log(j);
   j--;
 };
-
+     
 j = num;
 do {
   console.log(j)

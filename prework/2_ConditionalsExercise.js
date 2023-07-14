@@ -248,7 +248,7 @@ console.log(exercise8(6, 7, 1, 10));
 // for example, if item===true, the value should be:
 // "Please send a number, that was a boolean."
 function exercise9(item) {
-  let answer9;
+    let answer9;
   // --------------------------------------------
   // Write your code for the exercise below here:
   // --------------------------------------------
